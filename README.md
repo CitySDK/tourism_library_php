@@ -4,7 +4,7 @@ citysdk-wp5-php
 This library provides the general methods written in PHP to use the CitySDK Tourism API. 
 You can check the test-case.php (uses PHPUnit for unit tests) for a few usage examples.
 
-***See http://tourism.citysdk.eu/ for more information**
+**See http://tourism.citysdk.eu/ for more information**
 
 **There is a paper describing this effort http://link.springer.com/article/10.1186/s13174-015-0039-z**
 
